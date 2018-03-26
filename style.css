@@ -1,0 +1,57 @@
+body {
+  font-family: helvetica;
+  margin: 0;
+}
+nav a {
+color: #c8d6e5;  
+}
+nav a:hover {
+color: white;  
+}
+.about {
+  background-image: http://newsimage.radio.gov.pk/20171215/18582638361513358133.jpg;
+  color: #8395a7;
+  height: 100vh;
+  text-align: center;
+  padding-top: 2rem;
+}
+
+header {
+  background-color: #00cec9;
+  color: #c8d6e5;
+  height: 100vh;
+  text-align: center;
+  padding-top: 2rem;
+  
+}
+
+h1, h2 {
+  margin: 0;
+}
+
+.gallery {
+  background-image: url(https://picturecorrect-wpengine.netdna-ssl.com/wp-content/uploads/2013/07/Sunset-photography-2.jpg);
+  background-size: cover;
+  color: #c8d6e5;
+  height: 100vh;
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.logo {
+  height: 15rem;
+}
+
+.contact {
+  background-color: #81ecec;
+  color: #8395a7;
+  height: 100vh;
+  text-align: center;
+  padding-top: 2rem;
+}
+.form {
+  padding-top: 2rem;
+}
+.smallimg {
+ height: 5rem;
+}
